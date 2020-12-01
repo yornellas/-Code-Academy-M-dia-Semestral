@@ -1,4 +1,4 @@
-# -Code-Academy-M-dia-Semestral
+# -Code-Academy-Media-Semestral
 Projeto 1 Code Academy - Média Semestral
 
 
